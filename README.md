@@ -14,6 +14,8 @@ It’s a simple HTML project to test deployment and responsiveness on mobile dev
 ## 🛠️ Technologies Used
 
 * HTML
+* JavaScript
+* CSS
 
 ## 🎯 Purpose
 
